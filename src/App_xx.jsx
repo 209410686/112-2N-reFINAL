@@ -45,7 +45,7 @@ const router = createBrowserRouter([
     element: <CabinDetails_xx />,
   },
   {
-    path: '/about_xx',
+    path: '/about_86',
     element: <About_xx />,
   },
   {
