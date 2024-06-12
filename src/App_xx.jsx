@@ -41,7 +41,7 @@ const router = createBrowserRouter([
     element: <Landing_xx />,
   },
   {
-    path: '/cabins_xx/:id',
+    path: '/cabins_86/:id',
     element: <CabinDetails_xx />,
   },
   {
